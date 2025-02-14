@@ -16,7 +16,7 @@ async function obfus(query) {
 					});
 					const result = {
 						status: 200,
-						author: `//Encrypt By Tio\n//Yoxy multi device\n\n`,
+						author: `//Encrypted\n//Encrypted\n\n`,
 						result: obfuscationResult.getObfuscatedCode()
 					}
 					resolve(result)
