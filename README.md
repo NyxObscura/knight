@@ -1,3 +1,3 @@
-# Optimizing SQL queries
+# Fixing inconsistent naming conventions
 
-_Last updated: 2025-02-15T07:05:28.960Z_
+_Last updated: 2025-02-15T07:06:28.186Z_
