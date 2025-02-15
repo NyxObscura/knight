@@ -1,3 +1,3 @@
-# Improving application startup time
+# Refactoring background jobs
 
-_Last updated: 2025-02-15T12:33:07.541Z_
+_Last updated: 2025-02-15T12:33:58.728Z_
