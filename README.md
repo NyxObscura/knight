@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Updating example code snippets
 
-_Last updated: 2025-02-15T04:59:10.173Z_
+_Last updated: 2025-02-15T05:00:10.129Z_
