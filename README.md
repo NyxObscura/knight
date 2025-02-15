@@ -1,3 +1,3 @@
-# Optimizing SQL performance
+# Fixing UI glitches
 
-_Last updated: 2025-02-15T14:24:14.238Z_
+_Last updated: 2025-02-15T14:25:12.160Z_
