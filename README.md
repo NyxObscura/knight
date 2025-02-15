@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Updating example code snippets
 
-_Last updated: 2025-02-15T18:02:53.044Z_
+_Last updated: 2025-02-15T18:03:53.024Z_
