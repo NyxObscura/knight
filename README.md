@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Enhancing offline support
 
-_Last updated: 2025-02-15T15:12:58.246Z_
+_Last updated: 2025-02-15T15:13:43.932Z_
