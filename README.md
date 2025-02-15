@@ -1,3 +1,3 @@
-# Fixing timezone-related issues
+# Updating example code snippets
 
-_Last updated: 2025-02-15T20:24:52.654Z_
+_Last updated: 2025-02-15T20:25:51.152Z_
