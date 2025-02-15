@@ -1,3 +1,3 @@
-# Fixing internationalization issues
+# Improving session handling
 
-_Last updated: 2025-02-15T14:41:10.589Z_
+_Last updated: 2025-02-15T14:42:11.989Z_
