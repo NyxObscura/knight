@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Improving application startup time
 
-_Last updated: 2025-02-15T23:55:24.999Z_
+_Last updated: 2025-02-15T23:56:24.844Z_
