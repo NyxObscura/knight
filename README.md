@@ -1,3 +1,3 @@
-# Updating CI/CD pipeline
+# Improving SEO metadata
 
-_Last updated: 2025-02-15T10:21:41.866Z_
+_Last updated: 2025-02-15T10:23:09.995Z_
