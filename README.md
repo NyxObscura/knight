@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Small code refactor
 
-_Last updated: 2025-02-16T14:28:32.310Z_
+_Last updated: 2025-02-16T14:29:02.454Z_
