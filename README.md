@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Adding multi-language support
 
-_Last updated: 2025-02-16T21:28:09.428Z_
+_Last updated: 2025-02-16T21:28:39.353Z_
