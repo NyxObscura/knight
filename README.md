@@ -1,3 +1,3 @@
-# Refactoring background jobs
+# Updating API request parameters
 
-_Last updated: 2025-02-16T01:58:38.079Z_
+_Last updated: 2025-02-16T01:59:08.307Z_
