@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Optimizing SQL queries
 
-_Last updated: 2025-02-16T09:34:01.892Z_
+_Last updated: 2025-02-16T09:34:32.249Z_
