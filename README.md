@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Small code refactor
 
-_Last updated: 2025-02-16T22:17:40.199Z_
+_Last updated: 2025-02-16T22:18:10.208Z_
