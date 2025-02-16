@@ -1,3 +1,3 @@
-# Fixing broken links in README
+# Simplifying function logic
 
-_Last updated: 2025-02-16T16:11:34.073Z_
+_Last updated: 2025-02-16T16:12:04.019Z_
