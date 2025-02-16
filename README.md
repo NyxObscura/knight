@@ -1,3 +1,3 @@
-# Fixing broken links in README
+# Updating dependencies
 
-_Last updated: 2025-02-16T11:30:32.992Z_
+_Last updated: 2025-02-16T11:31:02.986Z_
