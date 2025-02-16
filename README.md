@@ -1,3 +1,3 @@
-# Adding proper error messages
+# Fixing broken links in README
 
-_Last updated: 2025-02-16T14:04:01.954Z_
+_Last updated: 2025-02-16T14:04:31.900Z_
