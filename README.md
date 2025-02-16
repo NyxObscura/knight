@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T07:19:31.922Z_
+_Last updated: 2025-02-16T07:20:01.980Z_
