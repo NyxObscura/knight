@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T21:57:39.856Z_
+_Last updated: 2025-02-16T21:58:09.881Z_
