@@ -1,3 +1,3 @@
-# Fixing broken links in README
+# Optimizing SQL performance
 
-_Last updated: 2025-02-16T09:37:31.910Z_
+_Last updated: 2025-02-16T09:38:01.632Z_
