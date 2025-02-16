@@ -1,3 +1,3 @@
-# Fixing UI glitches
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T05:51:54.191Z_
+_Last updated: 2025-02-16T05:52:24.168Z_
