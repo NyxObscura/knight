@@ -1,3 +1,3 @@
-# Refining notification system
+# Fixing permission issues
 
-_Last updated: 2025-02-16T04:31:53.047Z_
+_Last updated: 2025-02-16T04:32:22.980Z_
