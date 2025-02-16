@@ -1,3 +1,3 @@
-# Refactoring file structure
+# Fixing permission issues
 
-_Last updated: 2025-02-16T13:41:31.515Z_
+_Last updated: 2025-02-16T13:42:01.529Z_
