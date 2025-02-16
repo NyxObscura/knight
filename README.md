@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Updating configuration files
 
-_Last updated: 2025-02-16T17:22:35.152Z_
+_Last updated: 2025-02-16T17:23:05.280Z_
