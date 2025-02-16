@@ -1,3 +1,3 @@
-# Improving text formatting
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T17:05:05.014Z_
+_Last updated: 2025-02-16T17:05:35.088Z_
