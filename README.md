@@ -1,3 +1,3 @@
-# Cleaning up unused code
+# Updating documentation formatting
 
-_Last updated: 2025-02-16T22:10:40.301Z_
+_Last updated: 2025-02-16T22:11:10.059Z_
