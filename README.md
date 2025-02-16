@@ -1,3 +1,3 @@
-# Optimizing SQL queries
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T20:57:08.835Z_
+_Last updated: 2025-02-16T20:57:38.764Z_
