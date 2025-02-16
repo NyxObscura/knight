@@ -1,3 +1,3 @@
-# Fixing pagination bugs
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T11:00:32.528Z_
+_Last updated: 2025-02-16T11:01:02.551Z_
