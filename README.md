@@ -1,3 +1,3 @@
-# Adding new features
+# Fixing compatibility issues
 
-_Last updated: 2025-02-16T08:47:41.034Z_
+_Last updated: 2025-02-16T08:48:08.873Z_
