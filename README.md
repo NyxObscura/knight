@@ -1,3 +1,3 @@
-# Refining notification system
+# Optimizing SQL performance
 
-_Last updated: 2025-02-16T04:56:23.342Z_
+_Last updated: 2025-02-16T04:56:53.365Z_
