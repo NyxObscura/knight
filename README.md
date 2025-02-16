@@ -1,3 +1,3 @@
-# Enhancing documentation
+# Small code refactor
 
-_Last updated: 2025-02-16T06:10:24.528Z_
+_Last updated: 2025-02-16T06:10:54.566Z_
