@@ -1,3 +1,3 @@
-# Performance improvements
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T07:22:32.016Z_
+_Last updated: 2025-02-16T07:23:02.041Z_
