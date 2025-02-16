@@ -1,3 +1,3 @@
-# Refactor README.md
+# Adding logging for better debugging
 
-_Last updated: 2025-02-16T06:45:31.592Z_
+_Last updated: 2025-02-16T06:46:01.438Z_
