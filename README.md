@@ -1,3 +1,3 @@
-# Enhancing frontend performance
+# Fixing typos in documentation
 
-_Last updated: 2025-02-16T15:19:33.152Z_
+_Last updated: 2025-02-16T15:20:03.150Z_
