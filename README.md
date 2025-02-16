@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Reducing bundle size
 
-_Last updated: 2025-02-16T06:00:54.340Z_
+_Last updated: 2025-02-16T06:01:24.372Z_
