@@ -1,3 +1,3 @@
-# Minor text update
+# Fixing inconsistent naming conventions
 
-_Last updated: 2025-02-16T10:02:31.899Z_
+_Last updated: 2025-02-16T10:03:01.926Z_
