@@ -1,3 +1,3 @@
-# Simplifying function logic
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T00:11:17.526Z_
+_Last updated: 2025-02-16T00:12:18.174Z_
