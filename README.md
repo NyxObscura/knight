@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Enhancing offline support
 
-_Last updated: 2025-02-16T10:52:32.465Z_
+_Last updated: 2025-02-16T10:53:02.447Z_
