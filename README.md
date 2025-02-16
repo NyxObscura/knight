@@ -1,3 +1,3 @@
-# Improving session handling
+# Reducing memory usage
 
-_Last updated: 2025-02-16T17:49:05.619Z_
+_Last updated: 2025-02-16T17:49:35.612Z_
