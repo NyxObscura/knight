@@ -1,3 +1,3 @@
-# Updating outdated references
+# Fixing image rendering issues
 
-_Last updated: 2025-02-16T13:52:01.638Z_
+_Last updated: 2025-02-16T13:52:31.671Z_
