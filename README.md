@@ -1,3 +1,3 @@
-# Small code refactor
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T21:30:39.343Z_
+_Last updated: 2025-02-16T21:31:09.364Z_
