@@ -1,3 +1,3 @@
-# Improving keyboard accessibility
+# Performance improvements
 
-_Last updated: 2025-02-16T15:29:33.323Z_
+_Last updated: 2025-02-16T15:30:03.309Z_
