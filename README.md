@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Improving application startup time
 
-_Last updated: 2025-02-16T15:55:33.743Z_
+_Last updated: 2025-02-16T15:56:03.762Z_
