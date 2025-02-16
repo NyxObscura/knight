@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Improving session handling
 
-_Last updated: 2025-02-16T09:27:03.754Z_
+_Last updated: 2025-02-16T09:27:31.657Z_
