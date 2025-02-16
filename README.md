@@ -1,3 +1,3 @@
-# Refactoring database queries
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T14:01:31.902Z_
+_Last updated: 2025-02-16T14:02:01.880Z_
