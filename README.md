@@ -1,3 +1,3 @@
-# Rewriting inefficient algorithms
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T19:31:07.394Z_
+_Last updated: 2025-02-16T19:31:37.353Z_
