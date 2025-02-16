@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Optimizing CSS rules
 
-_Last updated: 2025-02-16T08:30:45.668Z_
+_Last updated: 2025-02-16T08:31:16.717Z_
