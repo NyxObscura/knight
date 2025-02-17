@@ -1,3 +1,3 @@
-# Adding missing documentation
+# Improving SEO metadata
 
-_Last updated: 2025-02-17T07:15:59.204Z_
+_Last updated: 2025-02-17T07:16:27.746Z_
