@@ -1,3 +1,3 @@
-# Updating project metadata
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T12:42:21.142Z_
+_Last updated: 2025-02-17T12:42:47.793Z_
