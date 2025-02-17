@@ -1,3 +1,3 @@
-# Improving database indexing
+# Enhancing webhook reliability
 
-_Last updated: 2025-02-17T17:09:48.210Z_
+_Last updated: 2025-02-17T17:10:18.216Z_
