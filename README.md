@@ -1,3 +1,3 @@
-# Updating outdated references
+# Adding proper error messages
 
-_Last updated: 2025-02-17T23:59:34.741Z_
+_Last updated: 2025-02-17T23:59:45.144Z_
