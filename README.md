@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Improving function modularity
 
-_Last updated: 2025-02-17T02:52:52.794Z_
+_Last updated: 2025-02-17T02:53:21.005Z_
