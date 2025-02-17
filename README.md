@@ -1,3 +1,3 @@
-# Improving text formatting
+# Fixing UI glitches
 
-_Last updated: 2025-02-17T22:00:23.228Z_
+_Last updated: 2025-02-17T22:00:53.245Z_
