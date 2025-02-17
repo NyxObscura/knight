@@ -1,3 +1,3 @@
-# Refactor README.md
+# Fixing typos in documentation
 
-_Last updated: 2025-02-17T18:11:49.020Z_
+_Last updated: 2025-02-17T18:12:19.001Z_
