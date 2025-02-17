@@ -1,3 +1,3 @@
-# Removing deprecated functions
+# Fixing image rendering issues
 
-_Last updated: 2025-02-17T17:19:48.377Z_
+_Last updated: 2025-02-17T17:20:18.364Z_
