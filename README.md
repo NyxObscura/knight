@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Refactoring background jobs
 
-_Last updated: 2025-02-17T20:56:21.494Z_
+_Last updated: 2025-02-17T20:56:51.570Z_
