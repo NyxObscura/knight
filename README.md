@@ -1,3 +1,3 @@
-# Rewriting inefficient algorithms
+# Optimizing CSS rules
 
-_Last updated: 2025-02-17T02:41:50.538Z_
+_Last updated: 2025-02-17T02:42:20.591Z_
