@@ -1,3 +1,3 @@
-# Refactoring redundant functions
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T07:02:57.527Z_
+_Last updated: 2025-02-17T07:03:27.900Z_
