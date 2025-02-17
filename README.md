@@ -1,3 +1,3 @@
-# Fixing inconsistencies in data
+# Improving SEO metadata
 
-_Last updated: 2025-02-17T13:17:44.491Z_
+_Last updated: 2025-02-17T13:18:14.606Z_
