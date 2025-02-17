@@ -1,3 +1,3 @@
-# Fixing missing semicolons
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T06:09:56.618Z_
+_Last updated: 2025-02-17T06:10:26.830Z_
