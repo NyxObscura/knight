@@ -1,3 +1,3 @@
-# Improving error handling
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T08:42:27.810Z_
+_Last updated: 2025-02-17T08:43:10.504Z_
