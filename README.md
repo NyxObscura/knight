@@ -1,3 +1,3 @@
-# Simplifying function logic
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T12:58:48.456Z_
+_Last updated: 2025-02-17T12:59:18.462Z_
