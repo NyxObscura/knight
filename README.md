@@ -1,3 +1,3 @@
-# Refactoring component structure
+# Reducing bundle size
 
-_Last updated: 2025-02-17T12:55:48.008Z_
+_Last updated: 2025-02-17T12:56:18.441Z_
