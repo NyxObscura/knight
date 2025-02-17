@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T15:05:45.407Z_
+_Last updated: 2025-02-17T15:06:30.110Z_
