@@ -1,3 +1,3 @@
-# Updating changelog
+# Fixing permission issues
 
-_Last updated: 2025-02-17T13:09:48.268Z_
+_Last updated: 2025-02-17T13:10:14.347Z_
