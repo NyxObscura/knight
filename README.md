@@ -1,3 +1,3 @@
-# Updating project metadata
+# Updating example code snippets
 
-_Last updated: 2025-02-17T19:46:50.494Z_
+_Last updated: 2025-02-17T19:47:20.432Z_
