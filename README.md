@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Adding better exception handling
 
-_Last updated: 2025-02-17T13:59:44.435Z_
+_Last updated: 2025-02-17T14:00:14.372Z_
