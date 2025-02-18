@@ -1,3 +1,3 @@
-# Adding missing documentation
+# Reducing bundle size
 
-_Last updated: 2025-02-18T00:56:53.196Z_
+_Last updated: 2025-02-18T00:57:03.125Z_
