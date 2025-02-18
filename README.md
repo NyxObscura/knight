@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Updating example code snippets
 
-_Last updated: 2025-02-18T01:54:54.921Z_
+_Last updated: 2025-02-18T01:55:05.207Z_
