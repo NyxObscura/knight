@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Fixing layout inconsistencies
 
-_Last updated: 2025-02-18T00:24:06.202Z_
+_Last updated: 2025-02-18T00:24:16.261Z_
